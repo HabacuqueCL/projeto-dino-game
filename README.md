@@ -1,4 +1,4 @@
-## projeto-dino-game
+# projeto-dino-game
 
 <img src="https://github.com/HabacuqueCL/imagezRepo/blob/main/dino-chrome-image.jpg?raw=true" alt="imagem do botao code" width="400px" height="160px"/>
 
