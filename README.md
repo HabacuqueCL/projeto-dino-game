@@ -1,6 +1,4 @@
-# projeto-dino-game
-
-<img src="https://github.com/HabacuqueCL/imagezRepo/blob/main/dino-chrome-image.jpg?raw=true" alt="Imagem do jogod do dinossauro do google" width="400px" height="160px"/>
+# <img src="https://github.com/HabacuqueCL/imagezRepo/blob/main/sonic-perfil-image.png?raw=true" alt="Imagem do jogod do dinossauro do google" width="100px" height="105px"/> projeto-sonic-run
 
 > Passos para baixar e rodar o jogo:
 >
